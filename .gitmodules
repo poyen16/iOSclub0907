@@ -2,7 +2,7 @@
 	path = hugo-theme-terminal
 	url = https://github.com/panr/hugo-theme-terminal.git
 [submodule "themes/ananke"]
-	path = themes/ananke
+	path = themes/ananke 
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "hugo-base16-theme"]
 	path = hugo-base16-theme
