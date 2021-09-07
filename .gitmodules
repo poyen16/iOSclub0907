@@ -5,5 +5,5 @@
 	path = themes/ananke 
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "hugo-base16-theme"]
-	path = themes/hugo-base16-theme
+	path = themes/base16
 	url = https://github.com/htdvisser/hugo-base16-theme.git
