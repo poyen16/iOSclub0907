@@ -2,4 +2,5 @@ baseURL = 'https://poyen16.github.io/iOSclub0907/'
 languageCode = 'zh-tw'
 title = 'My Blog'
 theme = "base16"
-summaryLength = 70
+summaryLength = 90
+
