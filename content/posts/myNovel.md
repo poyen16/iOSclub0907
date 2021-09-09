@@ -5,17 +5,10 @@ date: 2021-09-07
 draft: false
 ---
 # <時光之戀>  金倡丘 
-<img src="https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/cover.jpg" width="250" height="300" />
-
-
-
-![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/cover.jpg "t")
-
-
+![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/cover.jpg)
 <!--more-->
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/spotify.png" width="200"  align = center>
+![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/spotify.png)
 
 [Open Spotify playlist "時光之戀"](https://open.spotify.com/playlist/5aQ8hL19B7CcZDW6Um5WE4?si=c2648ded03c749f1) 
 </p>
