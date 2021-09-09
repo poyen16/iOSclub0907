@@ -122,4 +122,4 @@ draft: false
 「很簡單，只要拿著玫瑰並說玫瑰玫瑰我愛你，帶我去找呂布貂蟬吧！如此一來，他就能帶你回到過去，」
 
 
- [(png-clipart-spotify-playlist-podcast-apps-miscellaneous-logo.png)]({{< https://open.spotify.com/playlist/5aQ8hL19B7CcZDW6Um5WE4?si=63b0f94bfde24a61 >}})
+ 
