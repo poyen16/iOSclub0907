@@ -5,6 +5,7 @@ date: 2021-09-07
 draft: false
 ---
 # <時光之戀>  金倡丘 
+![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/img-797.jpg "t")
 
 - [<時光之戀>  金倡丘](#時光之戀--金倡丘)
     - [故事簡介](#故事簡介)
@@ -197,7 +198,7 @@ draft: false
 
 [歌曲點播：張靚穎-終於等到你](https://www.youtube.com/watch?v=nw87KRBrc0g)
 
-穿越時空中/遇見你/銀河交會時/你停留/粉蝶兒呀飛/和你相戀 - 「穿越時空遇見你」蕭亞軒
+終於等到你/還好我沒放棄/幸福來得好不容易/才會讓人更加珍惜/終於等到你/差點要錯過你/在最好的年紀遇到你/才算沒有辜負自己/終於等到你 - 「終於等到你」陳曦
 
 ### 戀 
 是留給一見鐘情的他。
@@ -219,8 +220,6 @@ draft: false
 
 在我看到「南街殷賑」時就聯想到了以前大稻埕。我想到這是一個很有歷史性的地方，因此如果有機會能穿不同時代想必很有趣吧。因此我透過將一部份的故事線拉到不同的歷史年代，以提昇文章的趣味性。
 
-![](/content/posts/assets/img-118.jpg)
-
 ![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/img-118.jpg "Test")
 
 郭雪湖 南街殷賑
@@ -231,7 +230,5 @@ draft: false
 
 金倡丘，本名陳柏諺，一名曾旅居海外的作家。出生於新北市永和區的他非常熱愛旅遊，也到過許多國家，經歷過一些異國的薰陶。不善言辭的他選用筆名「金倡丘」來表達他對愛情的想像以及他幽默風趣的一面。
 
-
-![](/content/posts/assets/img-797.jpg)
 
 ![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/img-797.jpg "t")
