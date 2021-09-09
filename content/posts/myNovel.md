@@ -5,13 +5,12 @@ date: 2021-09-07
 draft: false
 ---
 # <時光之戀>  金倡丘 
+
 <!-- vscode-markdown-toc -->
-	 1. [故事簡介](#)
-[一、 轉角遇見愛](#-1)
-
-[二、愛情讓人受盡委屈](#-1)
-
-[三、穿越時空只為遇見你](#-1)
+	* 1. [故事簡介](#)
+* 1. [一、 轉角遇見愛](#-1)
+* 2. [二、愛情讓人受盡委屈](#-1)
+* 3. [三、穿越時空只為遇見你](#-1)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -31,7 +30,7 @@ draft: false
 ***
 
 
-## 1. <a name='-1'></a>一、 轉角遇見愛
+##  1. <a name='-1'></a>一、 轉角遇見愛
 
 [歌曲點播：羅志祥-愛轉角](https://www.youtube.com/watch?v=yMe3Cru-_1U)
 
@@ -77,7 +76,6 @@ draft: false
 
 ***
 
-
 ##  2. <a name='-1'></a>二、愛情讓人受盡委屈
 
 [歌曲點播：楊丞琳-曖昧](https://www.youtube.com/watch?v=EWv76g9PhTQ)
@@ -111,7 +109,7 @@ draft: false
 ***
 
 
-## 3. <a name='-1'></a>三、穿越時空只為遇見你
+##  3. <a name='-1'></a>三、穿越時空只為遇見你
 
 [歌曲點播：蕭亞軒-穿越時空遇見你](https://www.youtube.com/watch?v=nw87KRBrc0g)
 
