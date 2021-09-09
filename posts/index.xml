@@ -3,11 +3,25 @@ iOSClub
 FLCV
 FCU</description></item><item><title>MyNovel</title><link>https://poyen16.github.io/iOSclub_hugo/posts/mynovel/</link><pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate><guid>https://poyen16.github.io/iOSclub_hugo/posts/mynovel/</guid><description>&lt;h1 id="時光之戀--金倡丘">&amp;lt;時光之戀&amp;gt; 金倡丘&lt;/h1>
 &lt;!-- raw HTML omitted -->
-&lt;pre>&lt;code> 1. [故事簡介](#)
+&lt;pre>&lt;code>* 1. [故事簡介](#)
 &lt;/code>&lt;/pre>
-&lt;p>&lt;a href="#-1">一、 轉角遇見愛&lt;/a>&lt;/p>
-&lt;p>&lt;a href="#-1">二、愛情讓人受盡委屈&lt;/a>&lt;/p>
-&lt;p>&lt;a href="#-1">三、穿越時空只為遇見你&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;ol>
+&lt;li>&lt;a href="#-1">一、 轉角遇見愛&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="2">
+&lt;li>&lt;a href="#-1">二、愛情讓人受盡委屈&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>
+&lt;ol start="3">
+&lt;li>&lt;a href="#-1">三、穿越時空只為遇見你&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
