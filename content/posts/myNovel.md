@@ -5,7 +5,7 @@ date: 2021-09-07
 draft: false
 ---
 # <時光之戀>  金倡丘 
-[![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/spotify.png)]("https://open.spotify.com/playlist/5aQ8hL19B7CcZDW6Um5WE4")
+[![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/spotify.png)]("https://open.spotify.com/playlist/5aQ8hL19B7CcZDW6Um5WE4?si=c2648ded03c749f1")
 
 - [<時光之戀>  金倡丘](#時光之戀--金倡丘)
     - [故事簡介](#故事簡介)
