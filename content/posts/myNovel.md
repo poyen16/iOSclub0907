@@ -5,7 +5,10 @@ date: 2021-09-07
 draft: false
 ---
 # <時光之戀>  金倡丘 
-<img src="https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/cover.jpg" alt="drawing" width="75%"/>
+<img src="https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/cover.jpg" width="250" height="300" />
+
+
+
 ![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/cover.jpg "t")
 
 
