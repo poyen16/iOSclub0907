@@ -219,7 +219,7 @@ draft: false
 
 在我看到「南街殷賑」時就聯想到了以前大稻埕。我想到這是一個很有歷史性的地方，因此如果有機會能穿不同時代想必很有趣吧。因此我透過將一部份的故事線拉到不同的歷史年代，以提昇文章的趣味性。
 
-<img src="Test/../../images/img-118.JPG" class="img-responsive" alt=""> </div>
+<img src="TEST/../../images/img-118.JPG" class="img-responsive" alt=""> </div>
 
 郭雪湖 南街殷賑
 
@@ -232,4 +232,4 @@ draft: false
 
 
 
-<img src="Test/../../images/img-797.JPG" class="img-responsive" alt=""> </div>
+<img src="TEST/../../images/img-797.JPG" class="img-responsive" alt=""> </div>
