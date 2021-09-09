@@ -6,7 +6,7 @@ draft: false
 ---
 # <時光之戀>  金倡丘 
 <p align="center">
-<img src="https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/spotify.png" width="200"  align = center>
+<img src="https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/cover.jpg" width="200"  align = center>
 
 <!--more-->
 <p align="center">
