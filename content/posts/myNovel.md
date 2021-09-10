@@ -1,7 +1,8 @@
 ---
 title: "小說欣賞"
 author: 陳柏諺（金倡丘）
-date: 2020-08-26 (updated 2021-09-10)
+date: 2020-08-26 
+updated: 2021-09-10
 draft: false
 ---
 # <時光之戀>  金倡丘 
