@@ -9,9 +9,9 @@ draft: false
 ![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/cover.jpg)
 
 <!--more-->
-published on <font color=#0000FF>August 26, 2020</font>
+published on **<font color=#0000FF>August 26, 2020</font>**
 
-updated on <font color=#FF6600>September 10, 2021</font>
+updated on **<font color=#FF6600>September 10, 2021</font>**
 
 ![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/spotify.png)
 
