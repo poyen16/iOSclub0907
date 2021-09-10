@@ -14,6 +14,8 @@ draft: false
 ![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/spotify.png)
 
 [Open Spotify playlist "時光之戀"](https://open.spotify.com/playlist/5aQ8hL19B7CcZDW6Um5WE4?si=c2648ded03c749f1) 
+published on August 26, 2020
+updated on September 10, 2021
 
 Image from [Mitsumena](https://www.pngitem.com/userpic/14129/)
 
