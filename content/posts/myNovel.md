@@ -13,12 +13,10 @@ draft: false
 ![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/spotify.png)
 
 [Open Spotify playlist "時光之戀"](https://open.spotify.com/playlist/5aQ8hL19B7CcZDW6Um5WE4?si=c2648ded03c749f1) 
-</p>
-https://www.pngitem.com/userpic/14129/
 
+[Image from Mitsumena]
+(https://www.pngitem.com/userpic/14129/)
 
-
-<a href="https://www.freeiconspng.com/img/15382" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/spotify-icon-2.png" width="350" alt="Icon Spotify Svg" /></a>
 
 
 
