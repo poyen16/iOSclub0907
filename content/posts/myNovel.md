@@ -1,10 +1,15 @@
 ---
 title: '小說欣賞'
-author: '陳柏諺'
+authors: 
+  - 陳柏諺
 date: 2021-09-10 
 draft: false
-tags : ['novel', 'love', 'timetravel']
-category: ['novel']
+tags : 
+  - novel
+  - love
+  - timetravel
+categories: 
+  - novel
 ---
 # <時光之戀>  金倡丘 
 
