@@ -1,20 +1,22 @@
 <h1>{{ .Params.name }}</h1>
+<p>
+  <a href="https://www.instagram.com/{{ substr . 0 }}">
+    Follow {{ $.Params.name }} on Instagram
+  </a>
+</p>
 
 <h2>Bio</h2>
 {{ .Content }}
 {{with .Params.instagram}}
 <p>
-    <a href="https://www.instagram.com/{{ substr . 0 }}">
-      Follow {{ $.Params.name }} on Instagram
-    </a>
+    Hello everyone, I am Boncor Chen
   </p>
-{{ end }}
+
 
 <h2>Articles</h2>
-<ul>
 {{ range .Data.Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ .Render "article" }}
 {{ end }}
-</ul>
 
+{{ end }}
 
