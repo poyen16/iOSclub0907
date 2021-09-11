@@ -1,6 +1,6 @@
 ---
 title: "小說欣賞"
-author: 陳柏諺（金倡丘）
+author: 陳柏諺
 date: 2021-09-10 
 draft: false
 ---

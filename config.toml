@@ -3,4 +3,7 @@ languageCode = 'zh-tw'
 title = 'My Blog'
 theme = "base16"
 
-
+[taxonomies]
+    author = "authors"
+    tag = "tags"
+    category = "categories"
