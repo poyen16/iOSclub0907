@@ -3,7 +3,7 @@
 <h1>{{ .name }}</h1>
 <p>{{ .bio }}</p>
 
-<h2>Articles by {{ . name }}</h2>
+<h2>Articles by {{ .name }}</h2>
 
 {{ range .Pages }}
 	{{ .Render "li" }}
