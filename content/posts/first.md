@@ -1,8 +1,10 @@
 ---
-title: "My First Post"
+title: 'My First Post'
 date: 2021-09-07
-author: 陳柏諺
+author: '陳柏諺'
 draft: false
+tag: ['test']
+category: ['blog']
 ---
 
 ***

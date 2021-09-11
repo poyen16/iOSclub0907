@@ -1,10 +1,12 @@
 baseURL = 'https://poyen16.github.io/iOSclub_hugo/'
 languageCode = 'zh-tw'
 title = 'My Blog'
-theme = "base16"
+theme = 'base16'
+author = '陳柏諺'
 
 [taxonomies]
-    author = "authors"
-    tag = "tags"
-    category = "categories"
-    disableKinds = ["taxonomyTerm"]
+    author = 'authors'
+    tag = 'tags'
+    category = 'categories'
+    alias = 'aliases'
+    disableKinds = ['taxonomyTerm']
