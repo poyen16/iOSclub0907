@@ -2,10 +2,10 @@
 
 <h2>Bio</h2>
 {{ .Content }}
-{{ with .Params.twitter }}
+{{ with .Params.instagram }}
   <p>
-    <a href="https://twitter.com/{{ substr . 1 }}">
-      Follow {{ $.Params.name }} on Twitter
+    <a href="https://www.instagram.com/{ substr . 0 }}">
+      Follow {{ $.Params.name }} on Instagram
     </a>
   </p>
 {{ end }}
