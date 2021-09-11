@@ -1,0 +1,18 @@
+{{partial "header.html" .}}
+
+<h1>{{ .Title }}</h1>
+<span>
+     {{ range .Param "authors" }}
+          {{ . }}
+    {{ end }}
+</span>
+
+{{ range .Param "authors" }}
+  {{ $name := . }}
+  {{ $path := printf "/%s/%s" "authors" ($name | urlize) }}
+  {{ with $.Site.GetPage $path }}
+  <h2>{{ .Params.name }}</h2>
+  <p>{{ .Params.bio }}</p>
+
+  {{end}}
+{{end}}

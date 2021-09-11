@@ -1,7 +1,6 @@
 ---
 title: '小說欣賞'
-authors: 
-  - 陳柏諺
+authors:  ["陳柏諺"]
 date: 2021-09-10 
 draft: false
 tags : 
