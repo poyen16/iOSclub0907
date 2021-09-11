@@ -8,5 +8,4 @@ author = '陳柏諺'
     author = 'authors'
     tag = 'tags'
     category = 'categories'
-    alias = 'aliases'
     disableKinds = ['taxonomyTerm']

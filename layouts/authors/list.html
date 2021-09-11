@@ -11,8 +11,9 @@
 {{ end }}
 
 <h2>Articles</h2>
-<ul>
 {{ range .Data.Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ .Render "article" }}
 {{ end }}
-</ul>
+
+{{ end }}
+
