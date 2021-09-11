@@ -7,3 +7,4 @@ theme = "base16"
     author = "authors"
     tag = "tags"
     category = "categories"
+    disableKinds = ["taxonomyTerm"]

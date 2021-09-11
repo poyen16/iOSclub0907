@@ -1,0 +1,18 @@
+<h1>{{ .Params.name }}</h1>
+
+<h2>Bio</h2>
+{{ .Content }}
+{{with .Params.instagram}}
+<p>
+    <a href="https://www.instagram.com/{{ substr . 1 }}">
+      Follow {{ $.Params.name }} on Instagram
+    </a>
+  </p>
+{{ end }}
+
+<h2>Articles</h2>
+<ul>
+{{ range .Data.Pages }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
