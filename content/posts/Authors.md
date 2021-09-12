@@ -1,16 +1,25 @@
 # Authors
 
 ## 陳柏諺
+Follow me on instagram @bpyc16
+
+<img src="https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/download.jpg" alt="a" width="100"/>
+
+
 
 
 ### Bio
+<p>&nbsp;</p>
 
-
+<p>&nbsp;</p>
 
 
 
 ### Articles
 
-[My First Post](https://poyen16.github.io/iOSclub_hugo/posts/first/) 
 
-[小說欣賞](https://poyen16.github.io/iOSclub_hugo/posts/mynovel/)
+1. [My First Post](https://poyen16.github.io/iOSclub_hugo/posts/first/) 
+
+<p>&nbsp;</p>
+
+2. [小說欣賞](https://poyen16.github.io/iOSclub_hugo/posts/mynovel/)
