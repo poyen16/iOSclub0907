@@ -1,7 +1,7 @@
 baseURL = 'https://poyen16.github.io/iOSclub_hugo/'
 languageCode = 'zh-tw'
 title = 'My Blog'
-theme = ''
+theme = 'ananke'
 author = '陳柏諺'
 
 [taxonomies]
