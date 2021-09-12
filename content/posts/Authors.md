@@ -1,5 +1,12 @@
 ---
-date: 2021-09-07 
+title: 'Authors'
+date: 2021-09-07
+authors: ["陳柏諺"]
+draft: false
+tags: 
+    - author
+categories: 
+    - about
 ---
 
 # Authors
