@@ -12,11 +12,10 @@ categories:
 # Authors
 
 ## 陳柏諺
-Follow me on instagram @bpyc16
+Follow me on instagram [@bpyc10](https://www.instagram.com/bpyc10/)
 
-<a href="https://www.instagram.com/bpyc10/">
-<img src="https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/download.jpg" alt="a" width="100"/>
-</a>
+![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/download.jpg)
+
 
 <p>&nbsp;</p>
 
