@@ -1,6 +1,6 @@
 ---
 title: 'Authors'
-date: 2021-09-07
+date: 2021-09-13
 authors: ["陳柏諺"]
 draft: false
 tags: 
@@ -9,9 +9,8 @@ categories:
     - about
 ---
 
-# Authors
 
-## 陳柏諺
+# 陳柏諺
 Follow me on instagram [@bpyc10](https://www.instagram.com/bpyc10/)
 
 ![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/download.jpg)
@@ -21,14 +20,14 @@ Follow me on instagram [@bpyc10](https://www.instagram.com/bpyc10/)
 
 
 
-### Bio
+## Bio
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
 
 
 
-### Articles
+## Articles
 
 
 1. [My First Post](https://poyen16.github.io/iOSclub_hugo/posts/first/) 
