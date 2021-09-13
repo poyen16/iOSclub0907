@@ -5,14 +5,11 @@ theme = 'ananke'
 contentDir = "content"
 [params]
 background_color_class = "bg-blue"
+recent_posts_number = 5
 
 [taxonomies]
     tag = 'tags'
     category = 'categories'
     disableKinds = ['taxonomyTerm']
 
-{{ $pages := .Pages }}
-{{ if .IsHome }}
-{{ $pages = .Site.RegularPages }}
-{{ end }}
-{{ $paginator := .Paginate $pages }}
+
