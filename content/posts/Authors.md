@@ -13,7 +13,7 @@ categories:
 # 陳柏諺
 Follow me on instagram [@bpyc10](https://www.instagram.com/bpyc10/)
 
-![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/download.jpg)
+![](https://raw.githubusercontent.com/poyen16/iOSclub_hugo/master/content/posts/assets/instagram.png)
 
 
 <p>&nbsp;</p>
